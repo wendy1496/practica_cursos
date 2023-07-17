@@ -1,0 +1,22 @@
+h3{
+    color: #e71d73;
+    text-align: center;
+}
+h4{
+    text-align: center;
+    color: rgb(37, 37, 37);
+}
+.btn-cesde{
+    background-color: #e71d73;
+    color: white;
+}
+#footer{
+    background-color: #424242;
+    color: white;
+    height: 50px; 
+}
+
+#footer p{
+    text-align: center;
+    padding-top:15px
+}
